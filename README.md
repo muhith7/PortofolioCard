@@ -1,1 +1,5 @@
-<p align="center"><img src="https://drive.google.com/file/d/1GRieQAlaqzZybA8iw4kTzft9Hstys2gn/view?usp=sharing" alt="" width="750" height="300"></p>
+# Simple Biz Card Portofolio App
+
+# Interface
+
+![Interface](<blockquote class="imgur-embed-pub" lang="en" data-id="a/SOLu5c0" data-context="false" ><a href="//imgur.com/a/SOLu5c0"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
